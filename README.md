@@ -65,11 +65,7 @@
 - **Tipo de función**: Función recursiva
 - **Ejemplo**: `factorial(5)` → `120`
 
-### 11. **Verificar si un número es par**
-- **Tarea**: Crea una función que determine si un número es par.
-- **Tipo de función**: Declaración de función
-- **Ejemplo**: `esPar(4)` → `true`
-
+q
 ### 12. **Multiplicar elementos de un arreglo**
 - **Tarea**: Crea una función que multiplique todos los números de un arreglo.
 - **Tipo de función**: Función de orden superior
